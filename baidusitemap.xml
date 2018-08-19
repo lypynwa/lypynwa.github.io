@@ -4,19 +4,19 @@
 
     
   <url>
-    <loc>http://yoursite.com/MySQL%E7%9A%84%E4%B8%BB%E4%BB%8E%E9%85%8D%E7%BD%AE.html</loc>
-    <lastmod>2018-08-19T14:55:15.289Z</lastmod>
+    <loc>http://yoursite.com/paho-mqtt%20%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91.html</loc>
+    <lastmod>2018-08-19T16:02:10.735Z</lastmod>
     <data>
         <display>
-        <title>MySQL 主从配置</title>
-        <pubTime>2018-03-16T01:25:11.146Z</pubTime>
+        <title>paho-mqtt 文档翻译</title>
+        <pubTime>2018-08-19T15:52:20.000Z</pubTime>
         
-        <tag>MySQL</tag>
+        <tag>Message Queue</tag>
          
          
            
              
-              <breadCrumb title="学习日志" url="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97/"/>
+              <breadCrumb title="Personal Notes" url="http://yoursite.com/categories/Personal-Notes/"/>
           
         </display>
     </data>
